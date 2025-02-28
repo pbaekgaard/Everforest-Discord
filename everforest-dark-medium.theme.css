@@ -461,3 +461,24 @@
 .searchBar-3TnChZ {
     border-radius: 10px !important;
 }
+
+.wrapper__6e9f8.selected__6e9f8 .childWrapper__6e9f8, .wrapper__6e9f8:hover .childWrapper__6e9f8 {
+    color: #272e33;
+    background-color: #a7c080;
+}
+
+* {
+    --bg-brand: #a7c080;
+}
+
+.circleIconButton__5bc7e.selected__5bc7e {
+    color: #272e33;
+}
+
+.botTagRegular__82f07 {
+    color: #272e33;
+}
+
+.botTagVerified__82f07 > * {
+	fill: #272e33;
+}
